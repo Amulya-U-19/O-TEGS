@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+vosk
+moviepy
+chromadb
+pandas
+scikit-learn
+python-multipart
+requests
+sqlalchemy
